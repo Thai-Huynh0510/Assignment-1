@@ -11,6 +11,13 @@ a {
   padding: 10px;
   border-radius: 25px;
 }
+button{
+  text-decoration: none;
+  color: blue;
+  background-color: lavender;
+  padding: 10px;
+  border-radius: 25px;
+}
 table{
 	width: 100%;
 	border: 1px solid;
@@ -23,13 +30,7 @@ line-height: 26px;
 text-indent: 30px; 
 margin: 0; }
 
-button{
-  text-decoration: none;
-  color: blue;
-  background-color: lavender;
-  padding: 10px;
-  border-radius: 25px;
-}
+
 
 video {
   width: 50%;
