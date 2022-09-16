@@ -1,32 +1,30 @@
 body {
   font-family: Gill Sans, sans-serif;
-  background-color: #f5daf0;
+  background-color: #ff4500;
   text-align: center;
 }
 
 a {
   text-decoration: none;
-  color: hotpink;
+  color: red;
   background-color: lavender;
   padding: 10px;
   border-radius: 25px;
 }
-
-div {
-   margin-bottom: 10px;
+table{
+	width: 100%;
+	border: 1px solid;
+	background-color: #FF2E2E;
 }
+p { color: black; 
+font-family: 'Lucida Sans', Arial, sans-serif; 
+font-size: 16px; 
+line-height: 26px; 
+text-indent: 30px; 
+margin: 0; }
 
 
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 30%;
-  border-radius: 15px;
-
-
-}
-
-.link {
-  margin: 40px;
+video {
+  width: 50%;
+  height: auto;
 }
